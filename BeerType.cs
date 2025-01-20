@@ -4,7 +4,7 @@ namespace HIOF
     {
         Lager,
         Ale
-        Pils = 200;
+        Pils = 20;
     }
 }
 
